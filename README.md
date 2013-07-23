@@ -1,4 +1,4 @@
 CiEncode
 ========
 
-Give the Encoding Options for ci
+This is usefull For security Term of encode the data
